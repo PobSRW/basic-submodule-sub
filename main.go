@@ -12,4 +12,6 @@ func main() {
 
 	// add comment to submodule from main module
 	// add branch develop
+
+	// add branch update-comment
 }
